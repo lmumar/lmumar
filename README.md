@@ -1,3 +1,3 @@
 ### Hello world 👋
 
-<img src="https://github.com/lmumar/lmumar/blob/main/images/stat.svg" alt="coding stats"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=lmumar&layuout=compact" alt="coding stats"/>
